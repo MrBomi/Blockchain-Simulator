@@ -8,8 +8,8 @@ Developed a multithreaded C/C++ application to simulate a basic cryptocurrency b
 - Security and Validation: Implements checks to ensure only valid blocks are added to the blockchain.
 - Error Handling: Handles various error scenarios to maintain the integrity and reliability of the blockchain.
 # Installing
-1.Clone the repo: git clone [repository-url]
-2. Navigate to the project directory: cd MtaCoin
+1.Clone the repo: git clone https://github.com/MrBomi/Blockchain-Simulator
+2. Navigate to the project directory: cd Blockchain-Simulator
 
 If using CMake(Added optional CMakeLists File):
   Create a build directory: mkdir build && cd build
